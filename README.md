@@ -1,1 +1,2 @@
 # maksi
+npx cypress open
